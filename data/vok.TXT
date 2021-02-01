@@ -1,0 +1,13 @@
+Global/global
+Lieferung/delivery
+Bäckerei/bakery
+Käse/chese
+Peperoni/pepperoni
+Schokolade/chocolate
+Marmelade/marmelade
+Asien/Asia
+Italien/Italy
+Ettikett/label
+Maus/mouse
+Mäuse/mice
+Tastatur/keyboard
